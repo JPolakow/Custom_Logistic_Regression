@@ -66,8 +66,6 @@ Two custom logistic regression models were implemented from scratch without inhe
   - Anaconda3 (Python 3.11.7).
 
 - **Primary Dependencies**:
-  - TensorFlow
+  - Numpy
   - PySpark
-  - Keras
   - SKLearn
-  - Matplotlib/Seaborn (for visualization)
